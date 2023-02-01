@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://niteshlanjewar.github.io/csb-576mse/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://niteshlanjewar.github.io/csb-576mse/static/js/main.9312c201.chunk.js",
+    "main.js.map": "https://niteshlanjewar.github.io/csb-576mse/static/js/main.9312c201.chunk.js.map",
+    "runtime-main.js": "https://niteshlanjewar.github.io/csb-576mse/static/js/runtime-main.93b93d4b.js",
+    "runtime-main.js.map": "https://niteshlanjewar.github.io/csb-576mse/static/js/runtime-main.93b93d4b.js.map",
+    "static/css/2.7f817d39.chunk.css": "https://niteshlanjewar.github.io/csb-576mse/static/css/2.7f817d39.chunk.css",
+    "static/js/2.5d2f4255.chunk.js": "https://niteshlanjewar.github.io/csb-576mse/static/js/2.5d2f4255.chunk.js",
+    "static/js/2.5d2f4255.chunk.js.map": "https://niteshlanjewar.github.io/csb-576mse/static/js/2.5d2f4255.chunk.js.map",
+    "index.html": "https://niteshlanjewar.github.io/csb-576mse/index.html",
+    "static/css/2.7f817d39.chunk.css.map": "https://niteshlanjewar.github.io/csb-576mse/static/css/2.7f817d39.chunk.css.map",
+    "static/css/main.f29ae65a.chunk.css.map": "https://niteshlanjewar.github.io/csb-576mse/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.5d2f4255.chunk.js.LICENSE.txt": "https://niteshlanjewar.github.io/csb-576mse/static/js/2.5d2f4255.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "https://niteshlanjewar.github.io/csb-576mse/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93b93d4b.js",
+    "static/css/2.7f817d39.chunk.css",
+    "static/js/2.5d2f4255.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.9312c201.chunk.js"
+  ]
+}
